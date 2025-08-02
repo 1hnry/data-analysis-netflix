@@ -80,9 +80,11 @@ Alongside the main findings, a few other patterns stood out:
 
 ## 💡 Conclusion
 
-Netflix’s content strategy isn’t one-size-fits-all. It’s a carefully tuned machine: conservative when it needs to be (movies), experimental when it can afford to be (TV Shows), and increasingly global in how it sources and presents content.
+Netflix’s content strategy is far from uniform — it’s a dynamic system that adapts to format, audience, and market conditions. For movies, the platform favors predictability and consistency. For TV shows, it takes more risks, experimenting at scale and backing only the most successful concepts. And when it comes to geography, Netflix is increasingly global — not just in distribution, but in production and storytelling.
 
-Its massive growth phase between 2018–2020 laid the groundwork, but recent years show a shift toward refinement — choosing quality over quantity, and global appeal over local dominance. In short, Netflix is no longer just building a library; it's curating an ecosystem.
+Netflix’s content strategy is far from uniform — it’s a dynamic system that adapts to format, audience, and market conditions. For movies, the platform favors predictability and consistency. For TV shows, it takes more risks, experimenting at scale and backing only the most successful concepts. And when it comes to geography, Netflix is increasingly global — not just in distribution, but in production and storytelling.
+
+Netflix is no longer just expanding a catalog — it’s shaping a global content ecosystem, one data-driven decision at a time.
 
 ---
 
