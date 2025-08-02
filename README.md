@@ -101,7 +101,7 @@ Netflix is no longer just expanding a catalog — it’s shaping a global conten
 ## 👨‍💻 Author
 
 **Henry Bertagna Lautenschlager** 
-- [LinkedIn](https://www.linkedin.com/in/henry-bertagna-5b1554338)
+- [LinkedIn](https://www.linkedin.com/in/henrybertagna)
 - [GitHub](https://github.com/1hnry)
 
 
