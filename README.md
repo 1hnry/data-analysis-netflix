@@ -26,9 +26,9 @@ When comparing content durations, a very clear divide emerges in how Netflix tre
 
 Most Netflix films fall within the classic 85–120 minute window — a sweet spot audiences are already used to. It’s a predictable format, and that’s probably the point. Netflix isn’t pushing boundaries with movie runtimes; it’s sticking to what works. The strategy here feels low-risk, focused on delivering a familiar experience rather than experimentation.
 
-**📺 For TV Shows: One Season to Prove Yourself**
+**📺 For Series: One Season to Prove Yourself**
 
-TV Shows, on the other hand, tell a different story. The bar chart makes it obvious: titles with just one season completely dominate. This supports the popular belief that Netflix cancels quickly — and the data backs that up. But instead of seeing it as a flaw, it might be more accurate to say Netflix treats each new series like a startup. Most won’t survive past season one unless they show real traction. It's a high-volume, market-testing approach that prioritizes scalability over long-term bets.
+Series, on the other hand, tell a different story. The bar chart makes it obvious: titles with just one season completely dominate. This supports the popular belief that Netflix cancels quickly — and the data backs that up. But instead of seeing it as a flaw, it might be more accurate to say Netflix treats each new series like a startup. Most won’t survive past season one unless they show real traction. It's a high-volume, market-testing approach that prioritizes scalability over long-term bets.
 
 ![Dashboard](Netflix%20Project/images/dashboard-final.png)
 
