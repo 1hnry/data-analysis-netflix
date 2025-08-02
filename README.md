@@ -20,4 +20,4 @@ This analysis was guided by the following questions:
 ### 1. Predictable Movies, Disposable Series?
 A comparative analysis of content duration reveals a dual strategy. While movies adhere to a traditional cinema-standard runtime (concentrated between 85-120 minutes), the vast majority of TV Shows have only one season. This suggests a "market-testing" model for series, where only guaranteed hits are renewed, and a low-risk, familiar format approach for movies.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard-final.png)
