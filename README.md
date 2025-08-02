@@ -48,7 +48,7 @@ But around early 2021, the data shows a clear slowdown. This shift likely reflec
 
 At first glance, Netflix’s library appears heavily US-centered — and in terms of raw production volume, that’s true. But a closer look reveals a much more global strategy in action.
 
-The heatmap highlights key international content hubs that play distinct roles in Netflix’s ecosystem. Japan leads in Anime, South Korea dominates serialized dramas, and India stands out as a major contributor — particularly in films and regional storytelling. The influence of Bollywood, with its rich cinematic tradition and massive local audience, is clearly reflected in the volume and genre diversity of Indian content on the platform.
+The heatmap highlights key international content hubs that play distinct roles in Netflix’s ecosystem. Japan leads in Anime, South Korea dominates serialized kdramas, and India stands out as a major contributor — particularly in films and regional storytelling. The influence of Bollywood, with its rich cinematic tradition and massive local audience, is clearly reflected in the volume and genre diversity of Indian content on the platform.
 
 India’s content not only caters to domestic viewers but is also increasingly positioned for international audiences, especially within the “International Movies” category — one of the most frequently used genre tags. This suggests that Netflix isn't just localizing content, but strategically elevating regional industries to serve its global vision.
 
